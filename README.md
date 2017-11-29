@@ -1,2 +1,1 @@
-# eqlsr-serverless
-Serverless implementation of eqlsr using AWS 
+eqlsr api using serverless and aws
